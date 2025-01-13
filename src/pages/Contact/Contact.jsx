@@ -84,7 +84,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1zp5khZY8XGJllzt2D8K0K47yqEk_Lkj5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qLpMbowXuy7Bwhy9oFtPDzgmkMsYoP8k/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
             >
