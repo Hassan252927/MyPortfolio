@@ -3,6 +3,7 @@ import fan_merch from "../assets/images/fan_merch.jpg";
 import image_ai from "../assets/images/image-ai.png";
 import scroll from "../assets/images/scroll.jpg";
 import edtech from "../assets/images/edtech.png";
+import homepage from "../assets/images/homepage.png";
 
 export const projects = [
   {
@@ -27,6 +28,13 @@ export const projects = [
     github: "https://github.com/Hassan252927/FanMerch-master",
     description:
       "A conceptual website for social media influencers to sell their merch to their fans.",
+  },
+  {
+    title: "Online Ecommerce Platform",
+    description: "A comprehensive platform for buying and selling products online.",
+    image: homepage,
+    link: "https://meal-hut.netlify.app/",
+    github: "https://github.com/Hassan252927/Online-Ecommerce-Store",
   },
   {
     title: "React Infinite scroll",
