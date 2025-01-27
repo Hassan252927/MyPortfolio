@@ -31,6 +31,7 @@ export const Navbar = ({ children }) => {
       ease: "elastic.out(1,0.8)",
     });
     setIsScrolling(false);
+    setNavBarVisible(false); // Close the navbar
   };
 
   useEffect(() => {
