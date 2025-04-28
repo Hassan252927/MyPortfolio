@@ -46,7 +46,7 @@ export const Home = () => {
             {produceSpans("Full Stack Developer")}
           </div>
           <div className="text second" aria-label="MERN Stack Developer">
-            {produceSpans("Mobile App Developer")}
+            {produceSpans("MERN Stack Developer")}
           </div>
         </Position>
       </TextContainer>
