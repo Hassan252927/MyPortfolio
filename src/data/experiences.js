@@ -19,8 +19,8 @@ export const experiences = [
     name: "Pak Launch",
     joined: "Jan'24",
     end: "April'24",
-    title: "Mobile Application Developer",
-    bio: "Developed 3 mobile application modules using React Native and Kotlin, increasing user retention by 25%. Optimized backend APIs, improving data retrieval time by 40%.",
+    title: "Front-end Developer",
+    bio: "Developed 3 Website UI application modules using React.js and Next.js increasing user retention by 25%. Optimized applications with SEO, improving data retrieval time by 40%.",
     color: green,
   },
   {
